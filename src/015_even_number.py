@@ -1,5 +1,5 @@
 """
-    return the munber index of the even numbers
+    return the number index of the even numbers
 """
 
 def my_func(my_input):
